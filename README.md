@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Light 💡;D</h2>
+<h2 align="center">I'm Light 💡;D</h2>
 
 <p align="center">
   🔰 BS Computer Science @ University of San Carlos &nbsp;|&nbsp; Powered by coffee and questionable sleep schedules
