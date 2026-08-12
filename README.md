@@ -4,7 +4,9 @@
   🔰 BS Computer Science @ University of San Carlos &nbsp;|&nbsp; Powered by coffee and questionable sleep schedules
 </p>
 
-✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦
+<p align="center">
+  ✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦
+</p>
 
 ### 🧰 Tech Stack
 
