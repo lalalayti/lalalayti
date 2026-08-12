@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Light Pearl 👋</h1>
+<h1 align="center">Hi, I'm Light 💡;D</h1>
 
 <p align="center">
   🔰 BS Computer Science @ University of San Carlos &nbsp;|&nbsp; Powered by coffee and questionable sleep schedules
 </p>
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦
 
 ### 🧰 Tech Stack
 
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
----
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ### 📜 Certifications
 
@@ -56,8 +56,7 @@
 - **Tech, AI & Career Readiness Program** — Vietnam Immersion, Ho Chi Minh City (2026)
 - **AI Experience @ Global City** — Certificate of Participation, Ho Chi Minh City (2026)
 
-
----
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ### 📫 Let's Connect
 
