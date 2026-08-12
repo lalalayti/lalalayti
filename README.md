@@ -56,14 +56,6 @@
 - **Tech, AI & Career Readiness Program** — Vietnam Immersion, Ho Chi Minh City (2026)
 - **AI Experience @ Global City** — Certificate of Participation, Ho Chi Minh City (2026)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" width="48%" />
-</p>
 
 ---
 
