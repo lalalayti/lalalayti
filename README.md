@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Light 💡;D</h1>
+<h2 align="center">Hi, I'm Light 💡;D</h2>
 
 <p align="center">
   🔰 BS Computer Science @ University of San Carlos &nbsp;|&nbsp; Powered by coffee and questionable sleep schedules
 </p>
 
-✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦
+✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦ ⋆｡ ⋆༶ ⋆ ⭒˚｡⋆ ˚✦
 
 ### 🧰 Tech Stack
 
