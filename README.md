@@ -42,7 +42,6 @@
 
 **Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
@@ -65,12 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" width="48%" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-Pin your 4-6 best repos on your profile (click "Customize your pins") — a mix of web, data, and small tools works great to show range.
 
 ---
 
