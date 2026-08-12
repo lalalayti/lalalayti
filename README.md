@@ -4,7 +4,7 @@
   🔰 BS Computer Science @ University of San Carlos &nbsp;|&nbsp; Powered by coffee and questionable sleep schedules
 </p>
 
----
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ### 🧰 Tech Stack
 
